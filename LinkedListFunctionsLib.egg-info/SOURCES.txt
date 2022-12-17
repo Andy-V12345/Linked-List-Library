@@ -1,0 +1,8 @@
+README.md
+setup.py
+LinkedListFunctionsLib/__init__.py
+LinkedListFunctionsLib/myfunctions.py
+LinkedListFunctionsLib.egg-info/PKG-INFO
+LinkedListFunctionsLib.egg-info/SOURCES.txt
+LinkedListFunctionsLib.egg-info/dependency_links.txt
+LinkedListFunctionsLib.egg-info/top_level.txt
